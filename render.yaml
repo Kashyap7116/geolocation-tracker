@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: geolocation2
-    env: node
-    plan: free
-    buildCommand: 'npm install'
-    startCommand: 'npm start'
